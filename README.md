@@ -31,5 +31,5 @@ Set up the environment using Picsimlab with PIC18F4620.
 Compile and upload the provided source code to the microcontroller.
 Follow the instructions provided in the code documentation to interact with the simulation using push buttons, gamepad, and ADC dial.
 
-Credits
+Credits:
 This assignment solution was developed by Sogol Mehrabi and Tahira Kazimi for the Introduction to Embedded Systems Development (CENG336) course.
